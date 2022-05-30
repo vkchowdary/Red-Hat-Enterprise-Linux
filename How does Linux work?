@@ -1,0 +1,9 @@
+Think about an OS like a car engine. An engine can run on its own, but it becomes a functional car when it’s connected with a transmission, axles, and wheels. 
+Without the engine running properly, the rest of the car won’t work.
+Linux was designed to be similar to UNIX, but has evolved to run on a wide variety of hardware from phones to supercomputers. 
+Every Linux-based OS involves the Linux kernel—which manages hardware resources—and a set of software packages that make up the rest of the operating system.
+
+The OS includes some common core components, like the GNU tools, among others. 
+These tools give the user a way to manage the resources provided by the kernel, install additional software, configure performance and security settings, and more. 
+All of these tools bundled together make up the functional operating system. 
+Because Linux is an open source OS, combinations of software can vary between Linux distributions.
